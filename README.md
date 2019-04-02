@@ -1,10 +1,10 @@
 # Code Tracker TelegramBot
 
-A magic telegram bot to send you updates from your running code. These updates can includes only a few characteres to a cool image.
+A magic telegram bot to send you updates from your running code. These updates can includes only a few characters to a cool image.
 
 # Basic Features!
 
-  - Send messages containg updates from your codes
+  - Send messages containing updates from your codes
     - NO REPEATED MESSAGES! If you try to send the same message repeatedly the _sender_ will only send the first one! 
   - Send your images and charts using this bot
   - Cool thread system to not lock and speed down your codes
@@ -12,7 +12,7 @@ A magic telegram bot to send you updates from your running code. These updates c
 
 # Installation
 
-  - Clone this repository and install dependencys
+  - Clone this repository and install dependencies
   - If you haven't already, install telegram library
   - This is it
 
